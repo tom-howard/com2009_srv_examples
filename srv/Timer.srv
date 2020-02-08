@@ -1,0 +1,3 @@
+int32 duration  # the time (in seconds) to do something
+---
+bool success    # a boolean response to indicate that the time has elapsed
