@@ -1,3 +1,0 @@
-float32 approach_request  # Distance to approach an object (m)
----
-string response_message
