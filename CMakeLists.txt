@@ -29,6 +29,7 @@ add_service_files(
   SetBool.srv
   Timer.srv
   TimedMovement.srv
+  ApproachFlag.srv
 )
 
 # Generate added messages and services with any dependencies listed here
