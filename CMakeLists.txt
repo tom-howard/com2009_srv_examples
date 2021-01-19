@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(srv_examples)
+project(com2009_srv_examples)
 
 ## Find catkin macros and libraries
 find_package(catkin REQUIRED COMPONENTS
