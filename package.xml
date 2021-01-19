@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>srv_examples</name>
+  <name>com2009_srv_examples</name>
   <version>0.0.0</version>
   <description>A package of various service message examples for The University of Sheffield COM2009 ROS teaching</description>
 
